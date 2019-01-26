@@ -7,6 +7,7 @@ My answer: Staging area can help us choose the files we want to commit at one ti
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+My answer:I use git diff --staged to compare the differences between the staging area and the latest commit and make sure this change is a single logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
