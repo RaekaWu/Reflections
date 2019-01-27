@@ -14,6 +14,7 @@ organized? How would branches help?
 My answer:When I want to do some experimental trial of a new version, I can create a new branch, which has no affect on my master branch.
 
 How do the diagrams help you visualize the branch structure?
+My answer: Visualizing the branch structure will help me clearly figure out the structure of whole branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
