@@ -22,3 +22,4 @@ My answer: All files commited in these two branches will have a merging version 
 
 7.What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+My answer:XXX
