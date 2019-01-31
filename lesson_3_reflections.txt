@@ -13,3 +13,7 @@ My answer: Forks can just be used in GitHub. For example, I don't have permissio
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 My answer: It can keep both the latest commit in local and in remote on local repository.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+My answer: Harder.
