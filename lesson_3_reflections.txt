@@ -9,3 +9,7 @@ My answer: Pulling changes manually can let me decide when and how to fetch my w
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 My answer: Forks can just be used in GitHub. For example, I don't have permission to Henry's repository A, so I can fork A in my account on GitHub. Clones can be used in any two repositories, such as from local to local, from GitHub to local. Branches can be used in a repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+My answer: It can keep both the latest commit in local and in remote on local repository.
